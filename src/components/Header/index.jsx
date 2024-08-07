@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="bg-[#F8F8F8] py-4 shadow mb-[50px]">
+    <div className="bg-[#F8F8F8] py-4 shadow mb-[50px] fixed top-0 left-0 right-0 z-40">
       <div className="container flex justify-between flex-wrap items-center">
         <div className="logo w-1/4 flex text-[32px] font-bold">
           <span className="text-[#FF6767]">Dash</span>

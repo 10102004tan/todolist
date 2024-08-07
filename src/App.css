@@ -8,6 +8,10 @@
     box-sizing: border-box;
 }
 
+.overlay-content::-webkit-scrollbar{
+    display: none;
+}
+
 .main {
     background: #F2F5FC;
 }
